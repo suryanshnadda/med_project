@@ -1,0 +1,45 @@
+#card
+{
+	
+	margin:1px;
+	margin
+}
+.card
+{
+	margin:5px;
+}
+#card_a
+{
+	margin-left:10px;
+}
+#main
+{
+padding:40px;	
+}
+#intro
+{
+padding:20px;
+box-shadow:0px 0px 25px #C0CBE5;
+}
+#iop
+{
+	
+	font-size:20px;
+	
+}
+.card:hover
+{
+	box-shadow:0px 0px 25px #C0CBE5;
+	
+}
+#rty
+{
+	padding:2px;
+	padding-left:10px;
+	margin:0px;
+	font-size:8px;
+}
+#last
+{
+	margin-left:80%;
+}
